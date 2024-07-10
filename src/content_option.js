@@ -14,7 +14,7 @@ const introdata = {
     description: "Recent IT graduate with a passion for exploring the potential of blockchain technology. Strong technical skills and comprehensive understanding of computer systems, programming languages, and software development methodologies.",
     description2: "Experienced in web development and software engineering with a focus on creating user-friendly and visually appealing applications. ",
     description3: "Currently researching and developing blockchain-based solutions and eager to contribute to the growth of this exciting and innovative field. Committed to ongoing learning and professional development.",
-    your_img_url: "https://drive.google.com/file/d/1Hi6wqxWgBahGusCSISfFWdOPiJt928BN/view?usp=sharing"
+    your_img_url: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/grayson_pf_1.jpg"
 };
 
 const dataabout = {
