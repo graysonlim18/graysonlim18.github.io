@@ -173,19 +173,14 @@ const dataportfolio = [{
         description: "ReactJS Tutorial",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
     {
         img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/blockchain_specialisation.jpg",
         description: "Blockchain Specialisation From Unversity Of Buffalo.",
         link: "#",
     },
     {
-        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/ITE_Cert.jpg",
-        description: "Higher Nitec ITE In IT",
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/machine_learning_for_all.jpg",
+        description: "Machine Learning For All",
         link: "#",
     },
     {
@@ -193,11 +188,6 @@ const dataportfolio = [{
         description: "Selenium With Python",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
     {
         img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/Meta_front_end_developer.jpg",
         description: "Meta Frontend Developer",
@@ -209,15 +199,15 @@ const dataportfolio = [{
         link: "#",
     },
     {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/ITE_Cert.jpg",
+        description: "Higher Nitec ITE In IT",
+        link: "#",
+    },
+    {
         img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/python_to_access_web_data.png",
         description: "Python To Access Web Data",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
 ];
 
 const contactConfig = {
