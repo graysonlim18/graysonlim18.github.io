@@ -163,16 +163,16 @@ const dataportfolio = [{
         description: "Blockchain Revolution From INSEAD",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/800/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/Diploma_Cert.jpg",
+        description: "Singapore Polytechnic Diploma In IT",
+        link: "#",
+    },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/reactjs_tutorial.jpg",
+        description: "ReactJS Tutorial",
+        link: "#",
+    },
     // {
     //     img: "https://picsum.photos/400/600/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -183,17 +183,16 @@ const dataportfolio = [{
         description: "Blockchain Specialisation From Unversity Of Buffalo.",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/ITE_Cert.jpg",
+        description: "Higher Nitec ITE In IT",
+        link: "#",
+    },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/selenium_with_python.jpg",
+        description: "Selenium With Python",
+        link: "#",
+    },
     // {
     //     img: "https://picsum.photos/400/300/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -204,16 +203,16 @@ const dataportfolio = [{
         description: "Meta Frontend Developer",
         link: "#",
     },
-    // {
-    //     img: "https://picsum.photos/400/550/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/blockchain_basics.jpg",
+        description: "Blockchain Basics",
+        link: "#",
+    },
+    {
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/python_to_access_web_data.png",
+        description: "Python To Access Web Data",
+        link: "#",
+    },
     // {
     //     img: "https://picsum.photos/400/700/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
