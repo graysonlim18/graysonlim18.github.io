@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Grayson Lim",
     animated: {
-        first: "I love coding", 
+        first: "I enjoy writing codes", 
         second: "Exploring blockchain & web 3.0",
-        third: "Develop bots during free time",
+        third: "Building bots as a hobby",
     },
     description: "Pursuing a Bachelor of Science with Honours in Computing Science at the Singapore Institute of Technology with a passion for exploring the potential of blockchain technology. Strong technical skills and comprehensive understanding of computer systems, programming languages, and software development methodologies.",
     description2: "Experienced in web development and software engineering with a focus on creating user-friendly and visually appealing applications. ",
