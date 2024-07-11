@@ -1,7 +1,7 @@
 const logotext = "GRAYSON";
 const meta = {
     title: "Grayson Lim",
-    description: "I’m Grayson Lim Junior software developer, currently serving the army",
+    description: "I’m Grayson Lim Junior software developer, currently pursuing a Bachelor of Science with Honours in Computing Science",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
         second: "Exploring blockchain & web 3.0",
         third: "Develop bots during free time",
     },
-    description: "Recent IT graduate with a passion for exploring the potential of blockchain technology. Strong technical skills and comprehensive understanding of computer systems, programming languages, and software development methodologies.",
+    description: "Pursuing a Bachelor of Science with Honours in Computing Science at the Singapore Institute of Technology with a passion for exploring the potential of blockchain technology. Strong technical skills and comprehensive understanding of computer systems, programming languages, and software development methodologies.",
     description2: "Experienced in web development and software engineering with a focus on creating user-friendly and visually appealing applications. ",
     description3: "Currently researching and developing blockchain-based solutions and eager to contribute to the growth of this exciting and innovative field. Committed to ongoing learning and professional development.",
     your_img_url: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/grayson_pf_1.jpg"
@@ -19,7 +19,7 @@ const introdata = {
 
 const dataabout = {
     title: "Abit about myself",
-    aboutme: "Hello! I'm a recent graduate with a strong passion for technology and innovation. My easy-going and friendly nature makes me an excellent team player, enabling me to collaborate effectively with colleagues and clients from diverse backgrounds. I have a keen sense of humor, which helps me navigate challenging situations and maintain a positive atmosphere within the team.",
+    aboutme: "Hello! I'm pursuing a Bachelor of Science with Honours in Computing Science at the Singapore Institute of Technology, with a strong passion for technology and innovation. My easy-going and friendly nature makes me an excellent team player, allowing me to collaborate effectively with colleagues and clients from diverse backgrounds. I have a keen sense of humor, which helps me navigate challenging situations and maintain a positive atmosphere within the team.",
     aboutme2: "When it comes to work, I pride myself on my strong sense of responsibility and accountability. I believe in delivering high-quality results and meeting project deadlines, while also maintaining open lines of communication with stakeholders. My adaptability and problem-solving skills, combined with a genuine enthusiasm for learning, have allowed me to excel across different industries.",
     aboutme3: "I'm constantly seeking new opportunities to grow, both personally and professionally, and I look forward to connecting with like-minded individuals who share my passion for creating innovative solutions and driving success.",
     aboutme4: `I also like soup dumplings \u{1F95F}.`
