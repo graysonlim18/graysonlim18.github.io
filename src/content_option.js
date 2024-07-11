@@ -189,13 +189,13 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/Meta_front_end_developer.jpg",
-        description: "Meta Frontend Developer",
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/blockchain_basics.jpg",
+        description: "Blockchain Basics",
         link: "#",
     },
     {
-        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/blockchain_basics.jpg",
-        description: "Blockchain Basics",
+        img: "https://graysonportfolio.s3.ap-southeast-2.amazonaws.com/Meta_front_end_developer.jpg",
+        description: "Meta Frontend Developer",
         link: "#",
     },
     {
